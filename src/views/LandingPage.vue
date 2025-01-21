@@ -17,7 +17,7 @@ export default {
       window.location.href = 'https://elliotstocker.net/music';
     },
     goToSubdomain2() {
-      window.location.href = 'https://elliotstocker.net/portfolio';
+      window.location.href = 'https://vue-portfolio-ene.pages.dev/';
     }
   }
 }
